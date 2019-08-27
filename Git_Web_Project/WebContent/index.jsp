@@ -9,7 +9,7 @@
 <body>
 <h1>인덱스 페이지 입니다.</h1>
 <ul>
-	
+	<li><a href="hojin.jsp">호진페이지</a></li>
 </ul>
 </body>
 </html>
