@@ -9,7 +9,11 @@
 <body>
 <h1>index.jsp</h1>
 <ul>
+
+	<li><a href="hojin.jsp">호진페이지</a></li>
 	<li><a href="sanggy.jsp">sanggy's page</a></li>
+
+
 </ul>
 </body>
 </html>
